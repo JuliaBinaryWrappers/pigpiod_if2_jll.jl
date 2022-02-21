@@ -1,0 +1,103 @@
+[[pigpiod_if2]]
+arch = "aarch64"
+git-tree-sha1 = "9c2b18894f1d1ddc3f450c0e66720f5d5217426a"
+libc = "glibc"
+os = "linux"
+
+    [[pigpiod_if2.download]]
+    sha256 = "76f93c9771ee8f717e24c94420db4956eb6f4692e7e805cdd4067912b95c43c7"
+    url = "https://github.com/JuliaBinaryWrappers/pigpiod_if2_jll.jl/releases/download/pigpiod_if2-v79.0.0+0/pigpiod_if2.v79.0.0.aarch64-linux-gnu.tar.gz"
+[[pigpiod_if2]]
+arch = "aarch64"
+git-tree-sha1 = "02e37ef0d33a40b2317a50717b271f642ba96bda"
+libc = "musl"
+os = "linux"
+
+    [[pigpiod_if2.download]]
+    sha256 = "aa6a110040c10553a1b260ef5ad4252477fad29dea2b2268040701fff31ae844"
+    url = "https://github.com/JuliaBinaryWrappers/pigpiod_if2_jll.jl/releases/download/pigpiod_if2-v79.0.0+0/pigpiod_if2.v79.0.0.aarch64-linux-musl.tar.gz"
+[[pigpiod_if2]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ccea5fab09a544d5174a4fa797ba4b912eeffad8"
+libc = "glibc"
+os = "linux"
+
+    [[pigpiod_if2.download]]
+    sha256 = "e16155a10a7c5c6a0726db6f6a00e1b637a427cd4d7f3510e317ed0d13753ec8"
+    url = "https://github.com/JuliaBinaryWrappers/pigpiod_if2_jll.jl/releases/download/pigpiod_if2-v79.0.0+0/pigpiod_if2.v79.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[pigpiod_if2]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "a45dde04fa90e1b13006eec8654c06ce1856e796"
+libc = "musl"
+os = "linux"
+
+    [[pigpiod_if2.download]]
+    sha256 = "507074d8fd0b8d47afb29a85660eb7be291f82dcf891feac0794ce83523af53e"
+    url = "https://github.com/JuliaBinaryWrappers/pigpiod_if2_jll.jl/releases/download/pigpiod_if2-v79.0.0+0/pigpiod_if2.v79.0.0.armv6l-linux-musleabihf.tar.gz"
+[[pigpiod_if2]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1e35346dfb7ad7901eae14024099af3efbd02a12"
+libc = "glibc"
+os = "linux"
+
+    [[pigpiod_if2.download]]
+    sha256 = "5400b0fc684346cbf0920b8762a649e6cfaebf8c5f5ce5be29fc24990540cfd9"
+    url = "https://github.com/JuliaBinaryWrappers/pigpiod_if2_jll.jl/releases/download/pigpiod_if2-v79.0.0+0/pigpiod_if2.v79.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[pigpiod_if2]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e4bd845c343d7c4973f568a5ad87a7c180c02329"
+libc = "musl"
+os = "linux"
+
+    [[pigpiod_if2.download]]
+    sha256 = "8e5f7ec5793a7238539acaf82c46ff34ee30df2ebb218192ac9d97e2079da3b2"
+    url = "https://github.com/JuliaBinaryWrappers/pigpiod_if2_jll.jl/releases/download/pigpiod_if2-v79.0.0+0/pigpiod_if2.v79.0.0.armv7l-linux-musleabihf.tar.gz"
+[[pigpiod_if2]]
+arch = "i686"
+git-tree-sha1 = "526cdf75486298be5e71f08d9ffde92eaf049129"
+libc = "glibc"
+os = "linux"
+
+    [[pigpiod_if2.download]]
+    sha256 = "2b05e017618d08385b5c917abdb7e81d7d66f95f0b04f314064e147b7aca4846"
+    url = "https://github.com/JuliaBinaryWrappers/pigpiod_if2_jll.jl/releases/download/pigpiod_if2-v79.0.0+0/pigpiod_if2.v79.0.0.i686-linux-gnu.tar.gz"
+[[pigpiod_if2]]
+arch = "i686"
+git-tree-sha1 = "2c0fd297591e3e29548dcec45f6299d8dca28b19"
+libc = "musl"
+os = "linux"
+
+    [[pigpiod_if2.download]]
+    sha256 = "5f83b85db63abd670b0db1f0dcdb96f61199ecea507be40397e6e9c372cb2879"
+    url = "https://github.com/JuliaBinaryWrappers/pigpiod_if2_jll.jl/releases/download/pigpiod_if2-v79.0.0+0/pigpiod_if2.v79.0.0.i686-linux-musl.tar.gz"
+[[pigpiod_if2]]
+arch = "powerpc64le"
+git-tree-sha1 = "163e5659869c944a48e903ba81cc7df799857df2"
+libc = "glibc"
+os = "linux"
+
+    [[pigpiod_if2.download]]
+    sha256 = "7ff7d25046ca35f6de7ebb7ed48fe265f891d0c5299415deed4c5e80b5a61c14"
+    url = "https://github.com/JuliaBinaryWrappers/pigpiod_if2_jll.jl/releases/download/pigpiod_if2-v79.0.0+0/pigpiod_if2.v79.0.0.powerpc64le-linux-gnu.tar.gz"
+[[pigpiod_if2]]
+arch = "x86_64"
+git-tree-sha1 = "38e10a61471aabe22b047c4a34b3e87926e20cf3"
+libc = "glibc"
+os = "linux"
+
+    [[pigpiod_if2.download]]
+    sha256 = "01705815bb03166225eaf7ac1f246b02006dc5e606bebc3024c7d68b4684a7d7"
+    url = "https://github.com/JuliaBinaryWrappers/pigpiod_if2_jll.jl/releases/download/pigpiod_if2-v79.0.0+0/pigpiod_if2.v79.0.0.x86_64-linux-gnu.tar.gz"
+[[pigpiod_if2]]
+arch = "x86_64"
+git-tree-sha1 = "f1cfdab1849bd75d893115beb7b9a162b1d2fc20"
+libc = "musl"
+os = "linux"
+
+    [[pigpiod_if2.download]]
+    sha256 = "1000cc8a1e5902e80f3d8d5602853b7238dfdbe0805c4e95e477c8de62a19b46"
+    url = "https://github.com/JuliaBinaryWrappers/pigpiod_if2_jll.jl/releases/download/pigpiod_if2-v79.0.0+0/pigpiod_if2.v79.0.0.x86_64-linux-musl.tar.gz"
